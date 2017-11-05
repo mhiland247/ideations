@@ -1,0 +1,6 @@
+			*.pyc
+			__pycache__
+			myv2 -- change to your virtualenv name
+			db.backends.mysql --change to database you are using
+			/static
+			.DS_Store
